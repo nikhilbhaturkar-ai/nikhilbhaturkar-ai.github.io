@@ -27,26 +27,28 @@ I build agentic AI systems, mentor aspiring developers, and create scalable solu
 
 ## 📂 Featured Projects
 ### 🧭 Agentic Chatbot Framework
-- Created a chatbot which handle the automatic deployment via creating tickets, ticket monitoring and deployment agent, built with Autogen
+- Created a chatbot which handle the automatic deployment via creating tickets, ticket monitoring and deployment agent, built with Autogen.
 - Created Langchain pipeline project which download pdf from email and read content using AI and created records in Dynamics for case generation,
-- Ongoing projects (Creating the RAG based chatbot for getting informaiton about Indian Goverment labour policies, Prompt based Test Automation using Langgraph using MCP, Chatbot for getting project level information, status, deadlines etc.  ) 
+- Ongoing projects (Creating the RAG based chatbot for getting informaiton about Indian Goverment labour policies, Prompt based Test Automation using Langgraph using MCP, Chatbot for getting project level information, status, deadlines etc.) 
 - [View Repo](https://github.com/nikhilbhaturkar-ai/dubaipropertysearcher)
 
-### 📊 AI Course: Learn by Building
+### 📊 AI Course: 15-Hour Short Course: Practical AI Agents & GenAI Foundations
 - 15-hour curriculum with hands-on projects
 - Covers Python, ML, GenAI, and agentic systems
-- [Course Repo](https://github.com/yourusername/ai-course)
+- [Course Repo](https://github.com/nikhilbhaturkar-ai/ai-course/tree/main)
 
-### 📊 AI Course: Learn by Building
+### 📊 ML predication model
 - Predict Candidate selection based on rating
 - Built in Linear regression and XGBoost
 - [View Repo](https://github.com/nikhilbhaturkar-ai/PredictionBasedonCandidateRating)
 
-
+### 📊 AI Course: Practice Chatbot
+- AI News Chatbot - get latest AI news from the website
+- Langraph and Langchain information Vector Db using Web Scraper like Beautifysoup 
 
 ## 📬 Let's Connect
 - 🌐 [ntdd-ai.tech](https://ntdd-ai.tech)
-- 📧 nikhil@ntdd-ai.tech
+- 📧 ntdd-ai.technogies@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
 
 
