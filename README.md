@@ -27,14 +27,22 @@ I build agentic AI systems, mentor aspiring developers, and create scalable solu
 
 ## 📂 Featured Projects
 ### 🧭 Agentic Chatbot Framework
-- Built with LangGraph
-- Handles multi-turn reasoning and tool use
-- [View Repo](https://github.com/yourusername/agentic-chatbot)
+- Created a chatbot which handle the automatic deployment via creating tickets, ticket monitoring and deployment agent, built with Autogen
+- Created Langchain pipeline project which download pdf from email and read content using AI and created records in Dynamics for case generation,
+- Ongoing projects (Creating the RAG based chatbot for getting informaiton about Indian Goverment labour policies, Prompt based Test Automation using Langgraph using MCP, Chatbot for getting project level information, status, deadlines etc.  ) 
+- [View Repo](https://github.com/nikhilbhaturkar-ai/dubaipropertysearcher)
 
 ### 📊 AI Course: Learn by Building
 - 15-hour curriculum with hands-on projects
 - Covers Python, ML, GenAI, and agentic systems
 - [Course Repo](https://github.com/yourusername/ai-course)
+
+### 📊 AI Course: Learn by Building
+- Predict Candidate selection based on rating
+- Built in Linear regression and XGBoost
+- [View Repo](https://github.com/nikhilbhaturkar-ai/PredictionBasedonCandidateRating)
+
+
 
 ## 📬 Let's Connect
 - 🌐 [ntdd-ai.tech](https://ntdd-ai.tech)
