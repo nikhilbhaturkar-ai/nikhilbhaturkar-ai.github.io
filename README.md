@@ -4,12 +4,10 @@
 I build agentic AI systems, mentor aspiring developers, and create scalable solutions.
 
 ## 🧠 Skills
-| Category        | Tools & Frameworks                          |
-|----------------|---------------------------------------------|
-| Programming     | Python, Dataverse, LangChain, Autogen       |
-| AI/ML           | Scikit-learn, HuggingFace, OpenAI API       |
-| Web Scraping    | BeautifulSoup, Selenium, Playwright         |
-| Education       | Course design, assignments, mentorship      |
+### 1. Programming ==> Python, Dataverse, LangChain, Autogen
+### 2. AI/ML ==> XGBoost, Vector DB, Azure Open AI, OpenAI API
+### 2. Web Scraping ==> BeautifulSoup, Selenium, Playwright
+### 3. Education ==> Course design, assignments, mentorship
 
 # Professional Summary – AI & Automation Lead
 - ✅ 19+ years of IT experience across Insurance, Banking, and Investment Banking domains.
@@ -47,9 +45,9 @@ I build agentic AI systems, mentor aspiring developers, and create scalable solu
 - Langraph and Langchain information Vector Db using Web Scraper like Beautifysoup 
 
 ## 📬 Let's Connect
-- 🌐 [ntdd-ai.tech](https://ntdd-ai.tech)
+- 🌐 [nikhilbhaturkar-ai](https://github.com/nikhilbhaturkar-ai)
 - 📧 ntdd-ai.technogies@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikhil-bhaturkar-0405b115/)
 
 
 
